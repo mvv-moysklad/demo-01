@@ -9,3 +9,6 @@ var c = 'str';
 
 // add local in checkout branch01
 var d = a[1] + b;
+
+// code in branch02
+var e = c + 'str2';
